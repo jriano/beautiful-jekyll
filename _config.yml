@@ -24,7 +24,7 @@ description: Juan Riano's bio and scripts
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-#  About Me: "aboutme"
+  About Me: "aboutme"
 #  Bash Scripts: "bash_scrips"
 
 # Image to show in the navigation bar - image must be a square (width = height)
