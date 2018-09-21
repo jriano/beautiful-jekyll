@@ -13,7 +13,7 @@ Well, I had to go and take a look at their API and wrote the script below, I hop
 
 * Linux
 * Git, curl, jq and awk
-* Clone this BitBucker snippet: [cloudinary_downloader](https://bitbucket.org/snippets/jriano/4eboRR/cloudinary-downloader)
+* Clone this BitBucker snippet and make it executable: [cloudinary_downloader.sh](https://bitbucket.org/snippets/jriano/4eboRR/cloudinary-downloader)
 
 ## What It Does
 
@@ -36,7 +36,7 @@ c_api_secret=yourapisecret
 ## Run the Script
 
 ```bash
-./cloudinary_downloader
+./cloudinary_downloader.sh
 ```
 
 And wait a bit :)
